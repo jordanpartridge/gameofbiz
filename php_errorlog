@@ -1,0 +1,32 @@
+[25-Nov-2015 09:44:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/jordanp0/public_html/gameofbiz/index.php on line 40
+[25-Nov-2015 09:46:34 America/Chicago] PHP Fatal error:  Call to undefined function initalizeMarketShares() in /home/jordanp0/public_html/gameofbiz/index.php on line 35
+[25-Nov-2015 10:59:21 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/jordanp0/public_html/gameofbiz/setup.php on line 58
+[25-Nov-2015 11:05:40 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/jordanp0/public_html/gameofbiz/setup.php on line 45
+[25-Nov-2015 11:06:18 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/jordanp0/public_html/gameofbiz/setup.php on line 45
+[25-Nov-2015 11:06:21 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/jordanp0/public_html/gameofbiz/setup.php on line 45
+[25-Nov-2015 11:12:46 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/jordanp0/public_html/gameofbiz/setup.php on line 52
+[25-Nov-2015 12:01:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 77
+[25-Nov-2015 12:02:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 77
+[25-Nov-2015 12:02:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 77
+[25-Nov-2015 12:02:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 78
+[25-Nov-2015 12:03:32 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 12
+[25-Nov-2015 12:08:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'Inc' (T_STRING), expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 85
+[25-Nov-2015 12:08:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'Inc' (T_STRING), expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 78
+[25-Nov-2015 12:08:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 3
+[25-Nov-2015 12:09:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'Inc' (T_STRING), expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 77
+[25-Nov-2015 13:41:39 America/Chicago] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in /home/jordanp0/public_html/gameofbiz/index.php on line 255
+[25-Nov-2015 19:20:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 13
+[25-Nov-2015 19:20:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 13
+[25-Nov-2015 19:21:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/jordanp0/public_html/gameofbiz/js/graphs.php on line 13
+[25-Nov-2015 22:33:56 America/Chicago] PHP Fatal error:  Call to undefined function event_profit() in /home/jordanp0/public_html/gameofbiz/company-info.php on line 44
+[26-Nov-2015 00:42:07 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 227
+[26-Nov-2015 00:43:23 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 227
+[26-Nov-2015 00:49:17 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 221
+[26-Nov-2015 00:50:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 221
+[26-Nov-2015 00:50:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 221
+[26-Nov-2015 00:50:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 221
+[26-Nov-2015 00:50:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jordanp0/public_html/gameofbiz/index.php on line 221
+[26-Nov-2015 17:26:33 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/jordanp0/public_html/gameofbiz/index.php on line 207
+[26-Nov-2015 17:26:34 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/jordanp0/public_html/gameofbiz/index.php on line 207
+[26-Nov-2015 17:37:39 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/jordanp0/public_html/gameofbiz/company-info.php on line 39
+[26-Nov-2015 17:37:41 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/jordanp0/public_html/gameofbiz/company-info.php on line 39
